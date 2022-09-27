@@ -16,5 +16,6 @@ Desktop wrapper for [portainer](https://www.portainer.io/), which gives GUI to e
 For **amd64 Debian** system:
 
 ```
-curl -s -L https://raw.githubusercontent.com/ShafiqIslam/portainer-desktop/main/bin/install.sh | bash
+curl -s -L https://raw.githubusercontent.com/ShafiqIslam/portainer-desktop/main/bin/add_repo.sh | bash
+sudo apt-get install portainer-desktop
 ```
